@@ -6,7 +6,7 @@ This page is generated and kept in sync via the `mappr-tool` / `mappr-embedded-i
 
 ---
 
-## Mappr.co — Embedded Apps (34)
+## Mappr.co — Embedded Apps (35)
 
 Iframe-embedded into Mappr.co WP posts. Each app deploys to its own `*.mappr.co` subdomain on Vercel.
 
@@ -14,6 +14,7 @@ Iframe-embedded into Mappr.co WP posts. Each app deploys to its own `*.mappr.co`
 - [airports_near_me](https://github.com/MapprMaps/airports_near_me) → [mappr.co/airports-near-me/](https://www.mappr.co/airports-near-me/) · `airports-near-me.mappr.co` — Find airports close to you or within a certain radius
 - [antipode_finder](https://github.com/MapprMaps/antipode_finder) → [mappr.co/antipode-finder/](https://www.mappr.co/antipode-finder/) · `antipode-finder.mappr.co` — Antipode Finder
 - [attractions_near_me](https://github.com/MapprMaps/attractions_near_me) → [mappr.co/tourist-attractions-near-me/](https://www.mappr.co/tourist-attractions-near-me/) · `attractions-near-me.mappr.co` — Find tourist attractions near any location
+- [cost_of_living](https://github.com/MapprMaps/cost_of_living) → [www.mappr.co/cost-of-living](https://www.mappr.co/cost-of-living/) — Cost of Living
 - [country_comparison](https://github.com/MapprMaps/country_comparison) → [mappr.co/country-comparison/](https://www.mappr.co/country-comparison/) · `country-comparison.mappr.co` — Country Comparison Tool
 - [csv_to_map](https://github.com/MapprMaps/csv_to_map) → [mappr.co/csv-to-map-converter/](https://www.mappr.co/csv-to-map-converter/) · `csv-to-map-converter.mappr.co` — Turn any csv with lat/long into a map
 - [distance_calculator](https://github.com/MapprMaps/distance_calculator) → [mappr.co/geodistance-smart-calculator/](https://www.mappr.co/geodistance-smart-calculator/) · `geodistance-smart-calculator.mappr.co` — Calculate Distance from one place to another
@@ -44,12 +45,6 @@ Iframe-embedded into Mappr.co WP posts. Each app deploys to its own `*.mappr.co`
 - [what_us_county_am_i_in](https://github.com/MapprMaps/what_us_county_am_i_in) → [mappr.co/what-county-am-i-in/](https://www.mappr.co/what-county-am-i-in/) · `what-county-am-i-in.mappr.co` — Find out in what US county I am currently in
 - [where_am_i](https://github.com/MapprMaps/where_am_i) → [mappr.co/where-am-i/](https://www.mappr.co/where-am-i/) · `where-am-i.mappr.co` — Instant Location Lookup
 - [zip_code_finder](https://github.com/MapprMaps/zip_code_finder) → [mappr.co/zip-code-finder/](https://www.mappr.co/zip-code-finder/) · `zip-code-finder.mappr.co` — Finds zip code in the world based on location
-
-## Mappr.co — Standalone Tool Pages (1)
-
-Tools that render directly as a Mappr.co page (no iframe).
-
-- [cost_of_living](https://github.com/MapprMaps/cost_of_living) → [www.mappr.co/cost-of-living](https://www.mappr.co/cost-of-living/) — Cost of Living
 
 ## Mappr.co — Editorial & WP Infrastructure (5)
 
